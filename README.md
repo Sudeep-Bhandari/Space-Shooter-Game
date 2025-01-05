@@ -31,3 +31,12 @@ The **Space Shooter Game** is a 2D arcade-style game developed in Python using t
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/your-username/space-shooter-game.git
+2. Navigate to the project directory:
+   ```bash
+   cd space-shooter-game
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the game:
+   ```bash
+   python space_shooter.py
