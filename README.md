@@ -48,20 +48,17 @@ The **Space Shooter Game** is a 2D arcade-style game developed in Python using t
     
 ## Contribution
 Contributions are welcome! To contribute:
-
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature-name
-Make your changes and commit them:
-bash
-Copy code
-git commit -m "Add some feature"
-Push to the branch:
-bash
-Copy code
-git push origin feature-name
-Open a pull request.
-License
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add some feature"
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+5. Open a pull request.
+   
+## License
 This project is licensed under the MIT License.
