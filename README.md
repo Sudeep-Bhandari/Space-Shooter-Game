@@ -40,3 +40,28 @@ The **Space Shooter Game** is a 2D arcade-style game developed in Python using t
 4. Run the game:
    ```bash
    python space_shooter.py
+
+## Future Enhancements
+   - Add more levels with increasing difficulty.
+   - Introduce boss battles.
+   - Multiplayer mode for competitive gameplay.
+    
+## Contribution
+Contributions are welcome! To contribute:
+
+Fork the repository.
+Create a new branch:
+bash
+Copy code
+git checkout -b feature-name
+Make your changes and commit them:
+bash
+Copy code
+git commit -m "Add some feature"
+Push to the branch:
+bash
+Copy code
+git push origin feature-name
+Open a pull request.
+License
+This project is licensed under the MIT License.
