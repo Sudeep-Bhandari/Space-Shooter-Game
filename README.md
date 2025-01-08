@@ -17,7 +17,7 @@ The **Space Shooter Game** is a 2D arcade-style game developed in Python using t
 
 ## How to Play
 
-1. **Start the Game**: Run the `space_shooter.py` file.
+1. **Start the Game**: Run the `Space-Shooter-Game.py` file.
 2. **Controls**:
    - Use the arrow keys to move your spaceship.
    - Press the spacebar to shoot.
